@@ -4,5 +4,5 @@ My LeetCode solutions.
 
 ## Progress
 
-- [ ] Array
+- [x] Array
 - [ ] Linked List
