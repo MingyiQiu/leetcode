@@ -5,4 +5,11 @@ My LeetCode solutions.
 ## Progress
 
 - [x] Array
-- [ ] Linked List
+- [x] Linked List
+- [ ] Hash Table
+- [ ] String
+- [ ] Stack & Queue
+- [ ] Binary Tree
+- [ ] Backtracking
+- [ ] Greedy
+- [ ] Dynamic Programming
