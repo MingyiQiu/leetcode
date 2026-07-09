@@ -7,7 +7,7 @@ My LeetCode solutions.
 - [x] Array
 - [x] Linked List
 - [x] Hash Table
-- [ ] String
+- [x] String
 - [ ] Stack & Queue
 - [ ] Binary Tree
 - [ ] Backtracking
