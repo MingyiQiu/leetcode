@@ -8,7 +8,7 @@ My LeetCode solutions.
 - [x] Linked List
 - [x] Hash Table
 - [x] String
-- [ ] Stack & Queue
+- [x] Stack & Queue
 - [ ] Binary Tree
 - [ ] Backtracking
 - [ ] Greedy
