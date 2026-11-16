@@ -9,7 +9,7 @@ My LeetCode solutions.
 - [x] Hash Table
 - [x] String
 - [x] Stack & Queue
-- [ ] Binary Tree
+- [x] Binary Tree
 - [ ] Backtracking
 - [ ] Greedy
 - [ ] Dynamic Programming
