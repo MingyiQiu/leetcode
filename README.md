@@ -10,6 +10,6 @@ My LeetCode solutions.
 - [x] String
 - [x] Stack & Queue
 - [x] Binary Tree
-- [ ] Backtracking
+- [x] Backtracking
 - [ ] Greedy
 - [ ] Dynamic Programming
